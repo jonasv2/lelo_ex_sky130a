@@ -4,15 +4,13 @@
 [![DOCS](../../actions/workflows/docs.yaml/badge.svg)](../../actions/workflows/docs.yaml)
 
 # Who
-aicex
+Jonas Hilbich
 
 # Why
-
-<explain why you made this module>
+I guess this is the tutorial module.
 
 # How
-
-<explain short how you made this module>
+I followed the tutorial as provided for this semester.
 
 
 # What
